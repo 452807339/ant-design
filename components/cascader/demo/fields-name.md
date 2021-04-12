@@ -23,7 +23,7 @@ const options = [
     items: [
       {
         code: 'hangzhou',
-        name: 'Hangzhou',
+        name: '哈哈',
         items: [
           {
             code: 'xihu',
