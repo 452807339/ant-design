@@ -18,16 +18,16 @@ import { Cascader } from 'antd';
 
 const options = [
   {
-    code: 'zhejiang',
-    name: 'Zhejiang',
+    code: '市场监测',
+    name: '市场监测',
     items: [
       {
-        code: 'hangzhou',
-        name: 'Hangzhou',
+        code: '外汇全市场',
+        name: '外汇全市场',
         items: [
           {
-            code: 'xihu',
-            name: 'West Lake',
+            code: '成交价',
+            name: '成交价',
           },
         ],
       },
